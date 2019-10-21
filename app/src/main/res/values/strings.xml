@@ -8,6 +8,8 @@
     <string name="title_activity_insta_post">InstaPost</string>
     <string name="title_activity_help">Help</string>
 	<string name="facebook_app_id">1343643482425305</string>
+    <string name="instagram_app_title_lbl">Instagram</string>
+    <string name="App_Logo_Description">App logo</string>
 	<string-array name="langArray">
 		<item>English</item>
 		<item>Afrikaans</item>
